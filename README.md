@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and Deep Learning
 - 🌱 I’m currently learning above things
 - 💞️ I’m looking to collaborate on ML Projects
-- 📫 How to reach me subhabratanath@outlook.com
+- 📫 How to reach me subhabratanath98@gmail.com
 
 <!---
 subha996/subha996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
