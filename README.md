@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me subhabratanath98@gmail.com
 - 🎎 There is another one like this, find here https://github.com/Osprey-DS
+--------------------------------------------------
 <!---
 subha996/subha996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,10 +28,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+--------------------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=subha996)
 <a href="https://github.com/subha996?tab=followers"><img src="https://img.shields.io/github/followers/subha996?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-
+--------------------------------------------------
