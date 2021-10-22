@@ -54,7 +54,11 @@ You can click the Preview link to take a look at your changes.
 ---------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subha996&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+--------------------------------------------------
 
+<a href="https://github.com/subha996/github-readme-activity-graph"><img alt="Subha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+--------------------------------------------------
 
 --------------------------------------------------
 
