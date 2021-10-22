@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subha996&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats) -->
 
+<!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a> -->
 ### 🛠 I feel very comfortable with:
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/nolan/96/python.png"/> </a>
@@ -28,8 +29,8 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/mysql.png"/> </a>
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="96" height="96"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/tensorflow.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
+  
+
    
     
     
