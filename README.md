@@ -53,9 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 <br> 
 <p align="center">
-    <a href="https://github.com/anuraghazra/githubreadme-stats">
-        <img title="Subha's Github stats" alt="Subha's stats" src="https://github-readme-stats.vercel.app/api?username=subha996&show_icons=true&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/anuraghazra/githubreadme-stats"/>
-    </a>
+    <a href="https://github.com/subha996/github-readme-stats"><img alt="Subha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subha996&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 </br>
 
