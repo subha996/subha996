@@ -19,6 +19,14 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subha996&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats) -->
+
+
+<p align="center">
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <img src="https://img.icons8.com/ios-glyphs/60/26e07f/analytics.png"/>
+    
+</p>   
+--------------------------------------------------
 <br>  
 <p align="center">
     <a href="https://github.com/subha996/github-readme-streak-stats">
