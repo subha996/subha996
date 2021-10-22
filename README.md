@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ### 🛠 I feel very comfortable with:
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <img src="https://img.icons8.com/ios-glyphs/60/26e07f/analytics.png"/>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/git.png"/> </a>
     
     
 </p> 
