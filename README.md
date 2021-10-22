@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subha996&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=subha996)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
