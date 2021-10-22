@@ -31,6 +31,10 @@ You can click the Preview link to take a look at your changes.
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/flask.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="96" height="96"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g><path d="M57.33333,141.93225l25.08333,14.33333v-141.93225l-25.08333,14.33333z" fill="#41affd"></path><path d="M82.41667,44.55158l-60.91667,35.17758v-30.45833l60.91667,-35.17758z" fill="#41affd"></path><path d="M114.66667,141.93225l-25.08333,14.33333v-141.93225l25.08333,14.33333z" fill="#c73ed7"></path><path d="M89.58333,44.55158l60.91667,35.17758v-30.45833l-60.91667,-35.17758z" fill="#c73ed7"></path><path d="M103.91667,70.70633v27.35158l25.08333,14.48383v-27.348z" fill="#c73ed7"></path></g></g></svg>
     
     
 </p> 
