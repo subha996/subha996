@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subha996&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subha996&repo=github-readme-stats)](https://github.com/subha996/subha996)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subha996&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
