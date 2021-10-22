@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <br>  
 <p align="center">
     <a href="https://github.com/subha996/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subha996&theme=tokyonight_duo&hide_border=true&stroke=0000"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subha996&theme=tokyonight_duo&hide_border=true&stroke=0000&fire=DD2727"/>
     </a>
 </p>
 </br>
