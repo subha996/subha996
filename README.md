@@ -9,4 +9,4 @@ subha996/subha996 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subha996&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subha996&theme=blue-green)](https://git.io/streak-stats)
