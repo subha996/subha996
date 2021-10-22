@@ -60,11 +60,10 @@ You can click the Preview link to take a look at your changes.
 
 --------------------------------------------------
 <h4 align="center"> Connect with me </h4>
-<p align="center">
-    
+
+<p align="center">  
 <a href = "https://www.linkedin.com/in/subhabrata-nath-181375115/"> <img src="https://img.icons8.com/color/96/000000/linkedin.png"/> </a>
 <a href = "https://www.youtube.com/channel/UCVBPiNJAZ5oA2PSnRoAITbg"><img src="https://img.icons8.com/color/96/000000/youtube-play.png"/></a>
-
 </p>
 
 --------------------------------------------------
