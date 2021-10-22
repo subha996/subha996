@@ -8,8 +8,12 @@
 subha996/subha996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subha996&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
+<p align="center">
+  
+<a herf=[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subha996&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
+   </a>
+  </p
 
 
 [![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=subha996&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/githubreadme-stats)
