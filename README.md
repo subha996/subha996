@@ -5,7 +5,7 @@
 
 --------------------------------------------------
 
-- 👋 Hi, I’m @subha996 (Subhabrata Nath)
+- 👋 Hi, I’m Subhabrata Nath (@subha996)
 - 👀 I’m interested in Machine learning and Deep Learning
 - 🌱 I’m currently learning above things
 - 💞️ I’m looking to collaborate on ML Projects
