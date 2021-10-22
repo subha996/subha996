@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subha996&theme=blue-green)](https://git.io/streak-stats)
 
 
-## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=subha996">
 </a>
