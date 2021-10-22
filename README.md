@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subha996&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats) -->
-  
+<br>  
 <p align="center">
     <a href="https://github.com/subha996/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subha996&theme=tokyonight_duo&hide_border=true&stroke=0000"/>
     </a>
 </p>
-
+</br>
 
 
 [![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=subha996&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/githubreadme-stats)
