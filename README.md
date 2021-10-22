@@ -54,11 +54,15 @@ You can click the Preview link to take a look at your changes.
 <br> 
 <p align="center">
     <a href="https://github.com/subha996/github-readme-stats"><img alt="Subha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subha996&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+    <a href="https://github.com/aniketh008/github-readme-stats"><img alt="Aniketh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh008&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+    
 </p>
 </br>
 
----------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subha996&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ---------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subha996&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 --------------------------------------------------
 
@@ -70,6 +74,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">  
 <a href = "https://www.linkedin.com/in/subhabrata-nath-181375115/"> <img src="https://img.icons8.com/color/96/000000/linkedin.png"/> </a>
 <a href = "https://www.youtube.com/channel/UCVBPiNJAZ5oA2PSnRoAITbg"><img src="https://img.icons8.com/color/96/000000/youtube-play.png"/></a>
+    
 </p>
 
 --------------------------------------------------
