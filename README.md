@@ -25,9 +25,13 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <img src="https://img.icons8.com/ios-glyphs/60/26e07f/analytics.png"/>
     
-</p>   
+</p> 
+
+
 --------------------------------------------------
-<br>  
+
+
+<br> 
 <p align="center">
     <a href="https://github.com/subha996/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subha996&theme=tokyonight_duo&hide_border=true&stroke=0000&fire=DD2727"/>
