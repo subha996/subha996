@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
+![](https://komarev.com/ghpvc/?username=subha996)
 <a href="https://github.com/subha996?tab=followers"><img src="https://img.shields.io/github/followers/subha996?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
