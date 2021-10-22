@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/mysql.png"/> </a>
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="96" height="96"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/tensorflow.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/ios/96/000000/flask.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/50/flask.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
     
