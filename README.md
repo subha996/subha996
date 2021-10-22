@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/heroku.png"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/mysql.png"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="96" height="96"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
