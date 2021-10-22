@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subha996&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats) -->
 
 <!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a> -->
-### 🛠 I feel very comfortable with:
+### 🛠 Work with:
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/python--v2.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/nolan/96/git.png"/> </a>
