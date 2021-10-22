@@ -59,9 +59,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/subha996/github-readme-activity-graph"><img alt="Subha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 --------------------------------------------------
-
+<h4 align="center"> Connect with me </h4>
 <p align="center">
-    <h4 align="center"> Connect with me </h4>
+    
 <a href = "https://www.linkedin.com/in/subhabrata-nath-181375115/"> <img src="https://img.icons8.com/color/96/000000/linkedin.png"/> </a>
 <a href = "https://www.youtube.com/channel/UCVBPiNJAZ5oA2PSnRoAITbg"><img src="https://img.icons8.com/color/96/000000/youtube-play.png"/></a>
 
