@@ -4,10 +4,9 @@
 <h3 align="center">.</h3>
 
 
-<p>
 <!--     <a href="https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM"></a> -->
-    <img src="https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM.gif" width="40" height="40" />
-</p>
+    <div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/u1WhXLjwgcXpHJBMRM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM">via GIPHY</a></p>
+
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Studying+Machine+Learning;To+Teach+Machine">
