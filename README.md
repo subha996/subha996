@@ -5,7 +5,8 @@
 
 
 <p>
-    <a href="https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM"></a>
+<!--     <a href="https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM"></a> -->
+    <img src="https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM.gif" width="40" height="40" />
 </p>
 
 <p align="left">
