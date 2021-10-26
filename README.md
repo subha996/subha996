@@ -3,7 +3,7 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, Nice To Meet You</h3>
 <h3 align="center">.</h3>
 
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Studying+Machine+Learning;To+Teach+Machine">
 </p>
 
