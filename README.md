@@ -4,8 +4,7 @@
 <h3 align="center">.</h3>
 
 
-<!--     <a href="https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM"></a> -->
-    <div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/u1WhXLjwgcXpHJBMRM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM">via GIPHY</a></p>
+<img src= "https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width ="60" >
 
 
 <p align="left">
