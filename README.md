@@ -5,7 +5,7 @@
 
 
 <!-- <img src= "https://thumbs.gfycat.com/MildFlashyAurochs-size_restricted.gif" width ="150" > -->
-<img src="https://lh3.googleusercontent.com/proxy/NBx-scob3HsptauCk1ZRjr6oUrr5pWILwcw2Bo6m_l0gOGfbLERr5Z3lWGBHR8WpXBy6rAwqisCL5V9iBfFAdnYmWQpfAIv_XJrn_sLJv3XxMTP6iE2_NBsBoyXnqtmNXW9-uAV6f_U" width="150" >
+<img src="https://cdna.artstation.com/p/assets/images/images/003/843/142/original/jayson-dean-ezgif-com-video-to-gif-1.gif?1477886752" width="150" >
 
 
 <p align="left">
