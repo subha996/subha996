@@ -3,6 +3,9 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, Nice To Meet You</h3>
 <h3 align="center">.</h3>
 
+
+<a href="https://www.reddit.com/user/envoyVC1084"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Studying+Machine+Learning;To+Teach+Machine">
 </p>
