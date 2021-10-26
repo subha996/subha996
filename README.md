@@ -5,7 +5,7 @@
 
 
 <!-- <img src= "https://thumbs.gfycat.com/MildFlashyAurochs-size_restricted.gif" width ="150" > -->
-<img src="https://bestanimations.com/media/robots/1473495192robot-animated-gif-image-24.gif" width="150" >
+<img src="https://bestanimations.com/media/robots/1473495192robot-animated-gif-image-24.gif" width="250" >
 
 
 <p align="left">
