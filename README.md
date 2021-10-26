@@ -4,7 +4,7 @@
 <h3 align="center">.</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Studying+Machine+Learning;To+Teach+Machine)](https://git.io/typing-svg)
 </p>
 
 --------------------------------------------------
