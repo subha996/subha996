@@ -4,7 +4,7 @@
 <h3 align="center">.</h3>
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Studying+Machine+Learning;To+Teach+Machine">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Studying+Machine+Learning;To+Teach+Machine">
 </p>
 
 --------------------------------------------------
