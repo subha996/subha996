@@ -4,7 +4,7 @@
 <h3 align="center">.</h3>
 
 
-<img src= "https://media0.giphy.com/media/fjxOlRKicWTlWLmlah/giphy.gif?cid=ecf05e47a282xov8xjg6pyd03hn1onuphmt9cz6i8bhrzke8&rid=giphy.gif&ct=g" width ="150" >
+<img src= "https://thumbs.gfycat.com/MildFlashyAurochs-size_restricted.gif" width ="150" >
 
 
 <p align="left">
