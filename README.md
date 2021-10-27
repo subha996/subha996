@@ -1,10 +1,9 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
-<h3 align="center">.</h3>
 
 <p align="center"> 
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&lines=Hi+there%2C+nice+to+meet+you.+)](https://git.io/typing-svg)
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&lines=Hi+there%2C+nice+to+meet+you.+">
 </p>
 
 
