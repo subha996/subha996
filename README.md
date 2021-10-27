@@ -4,7 +4,7 @@
 <h3 align="center">.</h3>
 
 
-<p align="left">
+<p align="center">
 <img src= "https://thumbs.gfycat.com/MildFlashyAurochs-size_restricted.gif" width ="150" >
 <!-- <img src="https://bestanimations.com/media/robots/1473495192robot-animated-gif-image-24.gif" width="250" > -->
 <!-- <img src="https://c.tenor.com/7G_LlGn-J0YAAAAC/star-redbluck.gif" > -->
