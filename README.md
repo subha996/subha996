@@ -101,7 +101,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=subha996)
 <a href="https://github.com/subha996?tab=followers"><img src="https://img.shields.io/github/followers/subha996?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+<!-- 
 Enough Reading, time to chill <img src= "https://media0.giphy.com/media/JxxkWxHOEDrq0/giphy.gif?cid=ecf05e47wi3fii9xxp14qtlkgqqbog8fmmvlcyrybob5fgzo&rid=giphy.gif&ct=g" width="20" >
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/ons9hulwsz838hhz7d8gduoh0)
+[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/ons9hulwsz838hhz7d8gduoh0) -->
