@@ -14,9 +14,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Studying+Machine+Learning;To+Teach+Machine">
-</p>
+</p> -->
 
 --------------------------------------------------
 
