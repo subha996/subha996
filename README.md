@@ -65,13 +65,13 @@ You can click the Preview link to take a look at your changes.
 --------------------------------------------------
 <!-- [![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=subha996&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/githubreadme-stats) -->
 
-
+<!-- 
 <br> 
 <p align="center">
     <a href="https://github.com/subha996/github-readme-stats"><img alt="Subha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subha996&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
          
 </p>
-</br>
+</br> -->
 
 ---------------------------------------------------
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subha996&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
